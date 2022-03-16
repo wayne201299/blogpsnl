@@ -11,6 +11,13 @@
 ```
 git clone 
 ```
+
+安裝Next主題
+```
+cd hexo-site
+npm install hexo-theme-next
+```
+
 安裝第三方套件
 
 hexo-cli（操作）
@@ -28,7 +35,7 @@ npm install hexo-deployer-git --save
 hexo s
 ```
 
-暫存清除
+清除public 下的靜態黨
 ```
 hexo clean
 ```
