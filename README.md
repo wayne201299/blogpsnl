@@ -35,7 +35,7 @@ npm install hexo-deployer-git --save
 hexo s
 ```
 
-清除public 下的靜態黨
+清除public 下的靜態檔
 ```
 hexo clean
 ```
