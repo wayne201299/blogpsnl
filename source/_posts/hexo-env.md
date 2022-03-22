@@ -2,6 +2,7 @@
 title: HEXO-環境建置
 date: 2022-03-15 13:39:42
 tags: Hexo
+categories: 前端開發
 description:
 ---
 基於Node.js開發的網誌框架
@@ -36,7 +37,6 @@ npm install -g hexo-cli
 #### <font color="#f00">檢查node版本有沒有支援新語法</font>
 - Hexo更新後，本地端的node如果沒更新，新語法會報錯
 
-###### tags: `Hexo`
 https://blackmaple.me/hexo-tutorial/
 https://isdaniel.github.io/hexo-blog-theme/
 https://github.com/isdaniel/MyBlog/blob/master/_config.yml
