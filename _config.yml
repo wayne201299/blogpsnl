@@ -103,5 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wayne201299/wayne201299.github.io
+  repo: https://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@github.com/wayne201299/wayne201299.github.io.git
   branch: main
+  token: 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
