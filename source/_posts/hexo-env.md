@@ -33,9 +33,7 @@ hexo-cli
 npm install -g hexo-cli
 ```
 
-## Error
-#### <font color="#f00">檢查node版本有沒有支援新語法</font>
-- Hexo更新後，本地端的node如果沒更新，新語法會報錯
+---
 
 https://blackmaple.me/hexo-tutorial/
 https://isdaniel.github.io/hexo-blog-theme/
