@@ -1,8 +1,8 @@
 ---
 title: Design Pattern
 date: 2022-03-16 17:21:18
-tags: Design Pattern
 categories: Design Pattern
+tags: Design Pattern
 ---
 
 > Each pattern describes a problem which occurs over and over again ... and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without doing it the same way twice. @Christopher Alexander

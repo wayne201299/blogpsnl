@@ -1,8 +1,8 @@
 ---
 title: Observer
 date: 2022-03-16 17:14:05
-tags: Design Pattern
 categories: Design Pattern
+tags: Design Pattern
 ---
  
 >  In those systems, the subject is usually named a "stream of events" or "stream source of events", while the observers are called "sinks of events"
