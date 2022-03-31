@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:wayne201299/wayne201299.github.io.git
-  branch: main
+  branch: master
