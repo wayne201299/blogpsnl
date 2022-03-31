@@ -103,5 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:wayne201299/blogpsnl.git
+  repo: git@github.com:wayne201299/wayne201299.github.io.git
   branch: main
