@@ -59,3 +59,13 @@ HTTPS
     ```
     git remote set-url origin https://[token]@github.com/[username]/[repository]
     ```
+### 轉換HTTPS->SSH
+![](https://i.imgur.com/mj4WsIY.png)
+
+1. 檢查目前遠端分支
+`git remote -v`
+2. 重新設定對應遠端分支
+`git remote set-url git@github:userName/repository.git`
+3. 檢查目前遠端分支有沒有改成功，再執行一次
+`git remote -v`
+4. push
