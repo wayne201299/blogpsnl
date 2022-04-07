@@ -2,7 +2,7 @@
 title: 如何乾淨的寫Angular
 date: 2022-03-23 14:25:48
 categories: 前端開發
-tags: Angular
+tags: [Angular,Design Pattern] 
 ---
 * 每行字數不要超過80個字元
 * 當HTML上的元素擁有超過一個屬性時，分行寫
@@ -77,5 +77,3 @@ tags: Angular
 ---
 
 [20+ Angular Code Improvement Tips You Need To Learn Now](https://javascript.plainenglish.io/20-angular-code-improvement-tips-you-need-to-learn-now-af57cab58c69)
-
-###### tags: `Angular`

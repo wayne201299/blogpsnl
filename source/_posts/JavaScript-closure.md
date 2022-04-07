@@ -136,5 +136,3 @@ console.log(add10(2)); // 12
 Module Pattern(Reveal Module):
 建立一個module，而內層的函式具有閉包的特性，因此可以存取外部的物件及方法，但同時不會洩漏內部資訊，還可以控制要回傳的內容
 :::
-
-###### tags: `JavaScript`
