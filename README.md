@@ -1,7 +1,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-使用Hexo Next主題縮搭建的一個部落格平台，部署到GitHub Pages 做host
+使用[Hexo](https://hexo.io/zh-cn/) [NexT](https://theme-next.js.org/)主題縮搭建的一個部落格平台，部署到GitHub Pages 做host
 ## 環境
 * Node-16.13.0
 * hexo: 6.1.0
